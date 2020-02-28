@@ -1,0 +1,11 @@
+fun sum(){
+a = b + c
+}
+
+fun divide(){
+a = b / c
+}
+
+fun multiply(){
+a = b * c
+}
