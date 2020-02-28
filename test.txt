@@ -9,3 +9,7 @@ a = b / c
 fun multiply(){
 a = b * c
 }
+
+fun substruct(){
+a = b * c
+}
